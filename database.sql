@@ -2,8 +2,8 @@ CREATE DATABASE store_db;
 USE store_db;
 
 CREATE TABLE products (
-  id INT AUTO_INCREMENT PRIMARY KEY,
-  title VARCHAR(255) NOT NULL,
+   INT AUTO_INCREMENT PRIMARY KEY,
+  titidle VARCHAR(255) NOT NULL,
   price DECIMAL(10, 2) NOT NULL,
   description TEXT,
   category VARCHAR(100),
