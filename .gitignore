@@ -8,3 +8,4 @@ desktop.ini
 .idea/
 *.log
 npm-debug.log*
+package-lock.json
